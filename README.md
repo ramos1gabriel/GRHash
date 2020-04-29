@@ -1,0 +1,2 @@
+# GRHash
+Criptografia que "inventei"
